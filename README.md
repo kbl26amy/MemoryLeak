@@ -42,3 +42,5 @@
 *  Func 裡的 VC 在方法執行完畢後會斷開 retain
 
 * 在第一個 VC 裡 addSubView 的話， 必須去removeFromSuperview() 再讓它 = nil ， 順序非常重要，且必須明白 navigationController?.viewControllers 的陣列存在
+
+* 可以點擊xcode裡面的 Debug Memory Graph 查看當前所產生的 Leak 與圖形
