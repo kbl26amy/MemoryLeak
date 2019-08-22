@@ -21,7 +21,7 @@
 
 
 
-* 使用weak時self需加上問號
+* 使用weak時self需加上問號， unowned 則擔保了不為 nil
 
 >unowned 
 
