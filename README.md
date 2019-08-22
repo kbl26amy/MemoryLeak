@@ -15,9 +15,9 @@
 4. Weak and Unowned
 ----
 ## Closure
-# 為了驗證我們創造了一個 Class 的 Object 設計 Closure 內容
+# 留意使用unowned 、 weak 的差異
 
-*留意使用unowned 、 weak 的差異*
+*為了驗證我們創造了一個 Class 的 Object 設計 Closure 內容*
 
 
 
